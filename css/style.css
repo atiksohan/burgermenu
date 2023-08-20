@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#menu h1{
+	color: darkslategray;
+	text-align: center;
+	font-family: fantasy;
+}
+
+#menu .burgers img{
+	height: 20rem;
+	width: 25rem;
+	padding: 0px 3px; 
+	margin-left: 5px;
+}
+
+#menu .middle_burgers img{
+	height: 20rem;
+	width: 25rem;
+	padding: 0px 3px; 
+	margin-left: 5px;
+	margin-top: 40px;
+}
+
+#menu p{
+	text-align: center;
+}
+
+#menu .burgers h3,p{
+	text-align: center;
+}
+
+#menu .middle_burgers h3,p{
+	text-align: center;
+}
+
+.button{
+	margin-left: 10rem;
+	background-color: orangered;
+	color: white;
+	padding: 0px 4px;
+}
+
+.button:hover{
+	border: solid lightblue; 2px;
+	background-color: green;
+	color: yellowgreen;
+}
